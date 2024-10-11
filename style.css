@@ -7,16 +7,14 @@
 
 }
 body{
-    background-color: var(--preto);
+    background-color: var(--fundo);
 
 }
 footer{
+    background-color: var(--preto);
     position: fixed;
     bottom: 0;
     color:var(--branco);
     width: 100%;
     text-aling:center;
-    
-
-
 }

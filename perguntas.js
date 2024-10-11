@@ -1,0 +1,5 @@
+criaCartao(
+    'matematica',
+    'pergunta',
+    'respostas'
+)
