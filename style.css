@@ -7,5 +7,7 @@
 
 }
 body{
-    background-color: var(--fundo);
+    background-color: var(--preto);
+    position: fixed;
+    bottom: 0;
 }
