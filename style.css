@@ -37,3 +37,20 @@ flex-wrap: wrap;
     text-align: center;
     height: 100%;
 }
+
+.conteudo-cartao h3{
+ position: absolute;
+text-align: left;
+color: var(--destaque);
+border: 1px solidvar(--destaque);
+border-radius: 6rem;
+padding: 0.6rem;
+margin: 0.6rem;
+font-size: 1vw;
+}
+.conteudo-cartao p{
+    margin-top: 5rem;
+    padding: 2rem;
+    font-size: 1.4vw;
+
+}
