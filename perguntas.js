@@ -83,5 +83,23 @@ criaCartao(
     'Qual é a principal obra de Platão?',
     'A República.'
 )
+criaCartao(
+    'filosofia',
+    'O que Aristóteles ensinou?',
+    'Aristóteles ensinou que a felicidade vem do equilíbrio.'
+    
+
+)
+criaCartao(
+    'filosofia',
+    'O que Platão acreditava?',
+    'Platão acreditava que existe um mundo perfeito de ideias que não podemos ver.'
+
+)
+criaCartao(
+    'filosofia',
+    'Quem foi Sócrates?',
+    'Sócrates foi um filósofo grego que ensinava por meio de perguntas para ajudar as pessoas a pensar melhor.'
+)
 
 
