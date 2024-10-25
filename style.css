@@ -64,8 +64,6 @@ backface-visibility: hidden;
 .pergunta-cartao, .resposta-cartao{
     backface-visibility: hidden;
     position:absolute;
-    background-color: var(--destaque);
-    color: var(--destaque);
     height: 100%;
     width: 100%;
 }
