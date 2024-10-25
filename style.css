@@ -5,6 +5,7 @@
     --destaque:#fff6ff;
     --preto:#fff6f9;
 
+
 }
 body{
     background-color: var(--fundo);
@@ -63,6 +64,8 @@ backface-visibility: hidden;
 .pergunta-cartao, .resposta-cartao{
     backface-visibility: hidden;
     position:absolute;
+    background-color: var(--destaque);
+    color: var(--destaque);
     height: 100%;
     width: 100%;
 }
