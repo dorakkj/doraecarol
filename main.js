@@ -14,7 +14,7 @@ cartao.innerHTML = `
 </div>
 `
 
-let respostaEstaVisivel= falsa;
+let respostaEstaVisivel= false;
 function viraCartao(){
     respostaEstaVisivel=!respostaEstaVisivel;
     cartao.classList.toggle('active', respostaEstaVisivel);
