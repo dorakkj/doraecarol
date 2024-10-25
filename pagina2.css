@@ -42,5 +42,9 @@ padding: 2rem;
     padding: 40px;
     color: var(--branco);
     box-shadow: 2px 2px 2px var(--preto);
-    
+
+}
+
+.cartao:hover{
+    transform: scale(0.4);
 }
